@@ -1,3 +1,4 @@
+test_calculator
 *.c.gcov
 *.gcda
 *.gcno
